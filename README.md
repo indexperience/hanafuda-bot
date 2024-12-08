@@ -21,7 +21,7 @@ This is an automation tool for interacting with the Hanafuda platform on the Bas
 
 1. Visit [Hanafuda Dashboard](https://hanafuda.hana.network/dashboard)
 2. Click on "Register"
-3. Use the invitation code: `QIV4XR`
+3. Use the invitation code: `D0VNDG`
 4. Complete the registration process
 
 ### Getting Your Refresh Token
@@ -39,8 +39,8 @@ This is an automation tool for interacting with the Hanafuda platform on the Bas
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Galkurta/Hanafuda-BOT.git
-cd Hanafuda-BOT
+git clone https://github.com/indexperience/hanafuda-bot
+cd hanafuda-bot
 ```
 
 2. Install dependencies:
